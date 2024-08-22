@@ -10,5 +10,7 @@ public class sefa_Yukleme {
                 Thread.sleep(100);
             }
         }
+        System.out.println("Red edilecek alan");
+
     }
 }
