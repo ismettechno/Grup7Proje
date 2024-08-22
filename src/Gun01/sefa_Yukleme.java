@@ -12,5 +12,7 @@ public class sefa_Yukleme {
         }
         System.out.println("Red edilecek alan");
 
+        System.out.println("Değiştirelen çalışma");
+
     }
 }
